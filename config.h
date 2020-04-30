@@ -53,3 +53,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #define SOFT_SERIAL_PIN D3 // or D1, D2, D3, E6
 #define SPLIT_HAND_PIN D0
+
+#define SERIAL_USE_MULTI_TRANSACTION
